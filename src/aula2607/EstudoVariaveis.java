@@ -1,3 +1,5 @@
+package aula2607;
+
 public class EstudoVariaveis {
     public static void main(String[] args){
 
