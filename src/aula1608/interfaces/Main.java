@@ -1,4 +1,4 @@
-package aula1608;
+package aula1608.interfaces;
 
 public class Main {
 

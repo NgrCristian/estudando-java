@@ -1,6 +1,8 @@
-package aula1608;
+package aula1608.interfaces;
 
-public class Quadrado implements Forma{
+import aula1608.interfaces.Forma;
+
+public class Quadrado implements Forma {
 
     private double lado;
 

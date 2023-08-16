@@ -1,6 +1,6 @@
-package aula1608;
+package aula1608.interfaces;
 
-public class Circulo implements Forma{
+public class Circulo implements Forma {
 
     private double raio;
 

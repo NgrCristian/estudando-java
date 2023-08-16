@@ -1,6 +1,8 @@
-package aula1608;
+package aula1608.interfaces;
 
-public class Triangulo implements Forma{
+import aula1608.interfaces.Forma;
+
+public class Triangulo implements Forma {
 
     private double base;
     private double altura;
